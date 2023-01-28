@@ -7,7 +7,7 @@ public class Cat {
         weight = 3000;
         name = "Barsik";
         age = 1;
-        color = "Grey";
+        color = "Black";
     }
 
     //Конструктор, принимающий параметры
