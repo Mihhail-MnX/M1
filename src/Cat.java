@@ -5,7 +5,7 @@ public class Cat {
     String color;
     public Cat() {
         weight = 3000;
-        name = "Barsik";
+        name = "Liza";
         age = 1;
         color = "Black";
     }
