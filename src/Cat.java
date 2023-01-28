@@ -8,6 +8,7 @@ public class Cat {
         name = "Liza";
         age = 1;
         color = "Black and white";
+
     }
 
     //Конструктор, принимающий параметры

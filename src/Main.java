@@ -6,5 +6,9 @@ public class Main {
         Cat smallCat = new Cat(1000, "Kuzya", 1, "White");
         System.out.println(bigCat);
         System.out.println(smallCat);
+        System.out.println(bigCat);
+        System.out.println(smallCat);
+        System.out.println(bigCat);
+        System.out.println(smallCat);
     }
 }
