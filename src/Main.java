@@ -7,8 +7,6 @@ public class Main {
         System.out.println(bigCat);
         System.out.println(smallCat);
         System.out.println(bigCat);
-        System.out.println(smallCat);
-        System.out.println(bigCat);
-        System.out.println(smallCat);
+
     }
 }
